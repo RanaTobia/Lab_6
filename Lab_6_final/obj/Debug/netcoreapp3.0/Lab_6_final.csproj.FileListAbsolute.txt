@@ -1,0 +1,11 @@
+C:\Users\rtobia\source\repos\Lab_6_final\bin\Debug\netcoreapp3.0\Lab_6_final.exe
+C:\Users\rtobia\source\repos\Lab_6_final\bin\Debug\netcoreapp3.0\Lab_6_final.deps.json
+C:\Users\rtobia\source\repos\Lab_6_final\bin\Debug\netcoreapp3.0\Lab_6_final.runtimeconfig.json
+C:\Users\rtobia\source\repos\Lab_6_final\bin\Debug\netcoreapp3.0\Lab_6_final.runtimeconfig.dev.json
+C:\Users\rtobia\source\repos\Lab_6_final\bin\Debug\netcoreapp3.0\Lab_6_final.dll
+C:\Users\rtobia\source\repos\Lab_6_final\bin\Debug\netcoreapp3.0\Lab_6_final.pdb
+C:\Users\rtobia\source\repos\Lab_6_final\obj\Debug\netcoreapp3.0\Lab_6_final.csprojAssemblyReference.cache
+C:\Users\rtobia\source\repos\Lab_6_final\obj\Debug\netcoreapp3.0\Lab_6_final.AssemblyInfoInputs.cache
+C:\Users\rtobia\source\repos\Lab_6_final\obj\Debug\netcoreapp3.0\Lab_6_final.AssemblyInfo.cs
+C:\Users\rtobia\source\repos\Lab_6_final\obj\Debug\netcoreapp3.0\Lab_6_final.dll
+C:\Users\rtobia\source\repos\Lab_6_final\obj\Debug\netcoreapp3.0\Lab_6_final.pdb
