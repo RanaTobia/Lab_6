@@ -1,0 +1,11 @@
+C:\Users\rtobia\source\repos\Lab7\obj\Debug\netcoreapp3.0\Lab7.csprojAssemblyReference.cache
+C:\Users\rtobia\source\repos\Lab7\obj\Debug\netcoreapp3.0\Lab7.AssemblyInfoInputs.cache
+C:\Users\rtobia\source\repos\Lab7\obj\Debug\netcoreapp3.0\Lab7.AssemblyInfo.cs
+C:\Users\rtobia\source\repos\Lab7\bin\Debug\netcoreapp3.0\Lab7.exe
+C:\Users\rtobia\source\repos\Lab7\bin\Debug\netcoreapp3.0\Lab7.deps.json
+C:\Users\rtobia\source\repos\Lab7\bin\Debug\netcoreapp3.0\Lab7.runtimeconfig.json
+C:\Users\rtobia\source\repos\Lab7\bin\Debug\netcoreapp3.0\Lab7.runtimeconfig.dev.json
+C:\Users\rtobia\source\repos\Lab7\bin\Debug\netcoreapp3.0\Lab7.dll
+C:\Users\rtobia\source\repos\Lab7\bin\Debug\netcoreapp3.0\Lab7.pdb
+C:\Users\rtobia\source\repos\Lab7\obj\Debug\netcoreapp3.0\Lab7.dll
+C:\Users\rtobia\source\repos\Lab7\obj\Debug\netcoreapp3.0\Lab7.pdb
